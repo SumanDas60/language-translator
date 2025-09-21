@@ -15,7 +15,7 @@ A **Google Translator-like** web app built with **React**, **Tailwind CSS**, and
 
 ## Demo
 
-![Demo Screenshot](screenshot.png)
+![Demo Screenshot](https://github.com/SumanDas60/language-translator/blob/5dc592beb2f27c81ca6b7d000c1a449362f67a21/Screenshot%202025-09-21%20215916.png)
 
 ## Installation
 
