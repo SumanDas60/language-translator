@@ -1,18 +1,3 @@
-/**
-LanguageTranslator.jsx — Fixed & Clean Google Translator-like Horizontal Layout with Dark Mode
-React + Tailwind CSS + React Icons
-
-Features:
-- Horizontal alignment (two side-by-side boxes: input and output)
-- Dark/Light mode toggle
-- Dropdowns above each box for language selection
-- Translate button (free MyMemory API)
-- Speak button for both source and target text
-- Mic input for source text
-- Clear & Swap buttons
-- Fixed previous errors
-*/
-
 import React, { useState, useRef, useEffect } from 'react';
 import { FaMicrophone, FaStop, FaExchangeAlt, FaTrash, FaVolumeUp, FaLanguage, FaMoon, FaSun } from 'react-icons/fa';
 
